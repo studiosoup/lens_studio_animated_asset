@@ -6,7 +6,7 @@
   PackageType: NotAPackage
   PackagePolicy: CannotBeUnpacked
   ExtraData:
-    {}
+    USE_EASY_LENS: ""
   AssetDataMap:
     JavaScriptAsset: !<own> cf923ba3-8e42-4376-95d9-5332b5ce7598
   DependentFiles:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 4c05e600-a5df-45d7-a9b6-85b61ddcdc57
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
